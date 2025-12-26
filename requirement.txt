@@ -1,0 +1,7 @@
+crewai
+crewai_tools
+langchain-community
+python-dotenv
+qdrant-client
+ollama
+litellm
